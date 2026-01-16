@@ -7,7 +7,7 @@
 # 😊 Exprience
 
 <p>
-  <img src="" width="20"/> MIDAS IT Front-end Developer
+  🖥️ MIDAS IT Front-end Developer (2025.10 ~)
 </p>
 
 <p>
