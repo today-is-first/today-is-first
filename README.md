@@ -4,10 +4,14 @@
 
 [기술 블로그](https://velog.io/@today-is-first/posts)
 
-# 😊 Educations
+# 😊 Exprience
 
 <p>
-  <img src="https://github.com/user-attachments/assets/b63a880d-eba8-444c-83df-2aebe63f4be9" width="20"/> Hanyang University ERICA campus (2018 - 2024)
+  <img src="" width="20"/> MIDAS IT Front-end Developer
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/43cc42be-f1d0-4d09-98b8-5e6a7a50ead1" width="20"/> Samsung Sw Academy For Youth 13th (2025.01 ~ 2025.10)
 </p>
 
 <p>
@@ -15,8 +19,9 @@
 </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/43cc42be-f1d0-4d09-98b8-5e6a7a50ead1" width="20"/> Samsung Sw Academy For Youth 13th (2025.01 ~)
+  <img src="https://github.com/user-attachments/assets/b63a880d-eba8-444c-83df-2aebe63f4be9" width="20"/> Hanyang University ERICA campus (2018 - 2024)
 </p>
+
 <br/>
 
 # 🌟 Skills
